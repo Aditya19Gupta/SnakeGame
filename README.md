@@ -93,4 +93,4 @@
 <p>This Snake Game project provides a foundational understanding of game development using Java and JavaFX. It offers a fun and nostalgic gaming experience while demonstrating essential programming concepts such as user input handling, game loops, collision detection, and dynamic rendering.</p>
 
 <h2>Author</h2>
-<p>Developed by [Your Name].</p>
+<p>Developed by Aditya Gupta.</p>
