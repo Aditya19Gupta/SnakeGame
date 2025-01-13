@@ -1,4 +1,4 @@
-<h2>Overview</h2>
+<h2>Snake Game</h2>
 <p>The Snake Game is a classic arcade game where the player controls a snake to consume fruits that appear randomly on the screen. As the snake eats the fruits, it grows longer, and the game becomes progressively more challenging. The game ends if the snake collides with the walls or itself. This project is implemented using Java and JavaFX to provide a simple yet engaging gaming experience.</p>
 
 <h2>Features</h2>
